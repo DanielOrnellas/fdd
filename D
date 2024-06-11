@@ -1,17 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="ICONE.ico" type="Aula-03/ICONE"
-    <title></title>
+    
 </head>
 <body>
-    <h1> LISTA DE ATIVIDADES NA SEMANA</h1>
+    <h1> CONCURSO AGRINHO</h1>
     
-    <p> Aqui estou mostrando com será a rotina da semana do dia 26/02 até 01/03</p>
+    <p> Cultivar é a arte de semear sonhos e colher realizações. Parabéns a todos os agricultores por moldarem o futuro da humanidade. A essência da vida brota das mãos do agricultor, que transforma a terra em dádivas e nutre nossas mesas com amor e cuidado.</p>
     
-    <img src="bara01.png" alt="logo do barão">
+    <img src="bara01.png" alt="">
     
     
         <li>Segunda-feira</li>
